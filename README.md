@@ -96,17 +96,15 @@ This program showcases:
 ---
 
 ### 🙌 Contributing
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request. By contributing, you agree to abide by the terms outlined in the **[LICENSE](LICENSE)** file.
+Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request. By contributing, you agree to abide by the terms outlined in the **[LICENSE](https://github.com/Purohit1999/BMI-Calculator-Java/blob/main/LICENSE)** file.
 
 ---
 
 ### 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](https://github.com/Purohit1999/BMI-Calculator-Java/blob/main/LICENSE).
 
 ---
 
 Thank you for using the **Enhanced BMI Calculator**! 💪 Stay healthy and code on! 🚀
 
 ---
-
-This version includes a section that explains BMI categories with specific details about what qualifies as "good health."
